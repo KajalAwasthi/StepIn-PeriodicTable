@@ -5,3 +5,5 @@
 * It brings to use the concept of file handling and the use of functions in C programming
 * The storage feature of the program allows to add the information of any element in the Periodic Table
 * The display feature displays all the information stored. An element can be searched by any of its property stored.
+* https://www.code-inspector.com/project/27447/score/svg
+* https://www.code-inspector.com/project/27447/status/svg
