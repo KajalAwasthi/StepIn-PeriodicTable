@@ -7,3 +7,4 @@
 * The display feature displays all the information stored. An element can be searched by any of its property stored.
 * https://www.code-inspector.com/project/27447/score/svg
 * https://www.code-inspector.com/project/27447/status/svg
+* [![Codacy Badge](https://app.codacy.com/project/badge/Grade/ac011a4cc1554f6a84f5eb0a5460a762)](https://www.codacy.com/gh/KajalAwasthi/StepIn-PeriodicTable/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=KajalAwasthi/StepIn-PeriodicTable&amp;utm_campaign=Badge_Grade)
