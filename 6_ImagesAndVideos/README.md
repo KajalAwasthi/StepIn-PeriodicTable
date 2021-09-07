@@ -31,6 +31,7 @@
 ![11](https://user-images.githubusercontent.com/89745488/132414259-3551d569-8c53-4be2-8d61-dea36d100872.JPG)
 
 *   When 'R' is selected to reset the score in the quiz
+
 ![12](https://user-images.githubusercontent.com/89745488/132415385-f8360ec5-ce55-4853-b46e-332b177d0350.JPG)
 
 *   When 'H' is selected for help
