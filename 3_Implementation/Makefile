@@ -8,6 +8,7 @@ PROJECT_NAME = StepIn-PeriodicTable
 # Target : Dependencies
 #<1 TAB SPACE>Command
 
+BUILD = Build
 
 SRC = main.c\
 src/periodictable.c\
