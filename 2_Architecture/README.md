@@ -2,9 +2,18 @@
 
 * Add UML Diagrams
 * For information about UML Diagrams refer: [UML Diagrams](https://www.uml-diagrams.org/uml-25-diagrams.html)
-## Tools 
+
+## Tools
+
 * [Draw.io](https://app.diagrams.net/)
 * [Creately](https://app.creately.com/diagram/create)
 * or any other free tools
-## High Level Behavioural Diagram
-![Untitled Workspace](https://user-images.githubusercontent.com/89745488/132355568-fd2f054a-26a9-4455-b2cf-fd655c90e4bb.png)
+
+## Use Case Diagram
+
+![UseCase](https://user-images.githubusercontent.com/89745488/132465682-4b7d0802-d3e0-4e83-9613-ee58de1a7db7.jpg)
+
+
+## Activity Diagram
+
+![ActivityDiagram](https://user-images.githubusercontent.com/89745488/132465437-da0b7bf6-4f8b-4212-8666-1b0fb5d2de36.png)
