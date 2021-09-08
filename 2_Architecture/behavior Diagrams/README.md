@@ -1,9 +1,10 @@
 # Behavior Diagrams
 
-## High Level Behavioural Diagram
+## Use Case Diagram
 
-![HLBD](https://user-images.githubusercontent.com/89745488/132361273-de15d12c-a81d-4f13-840e-b0a3eca99f18.png)
+![UseCase](https://user-images.githubusercontent.com/89745488/132465682-4b7d0802-d3e0-4e83-9613-ee58de1a7db7.jpg)
 
-## Low Level Behavioural Diagram
 
-![LLBD](https://user-images.githubusercontent.com/89745488/132409930-5d8fb49d-79e1-4850-b86e-17ae0245ff98.png)
+## Activity Diagram
+
+![ActivityDiagram](https://user-images.githubusercontent.com/89745488/132465437-da0b7bf6-4f8b-4212-8666-1b0fb5d2de36.png)
