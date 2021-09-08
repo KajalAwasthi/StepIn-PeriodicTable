@@ -16,7 +16,7 @@
 ### Low Level Test Plan
 
 | Test ID | Function name | Description | Return type | Valid Input |	Output | Output for invalid inputs | Status (PASS/FAIL) |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- | --- |
 | LL01 | show_record | shows highest scorer alongwith score | void | choice V | display message | Exits | PASS |
 | LL02 | reset_score | resets the highest score | void | choice R | Score is reset | Exits | PASS |
 | LL03 | help | helps the player by displaying rules again | void | choice H | rules display | Exits | PASS |
