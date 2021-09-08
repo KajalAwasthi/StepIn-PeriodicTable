@@ -17,3 +17,12 @@
 ## Activity Diagram
 
 ![ActivityDiagram](https://user-images.githubusercontent.com/89745488/132465437-da0b7bf6-4f8b-4212-8666-1b0fb5d2de36.png)
+
+## ClassDiagram
+
+![ClassDiagram](https://user-images.githubusercontent.com/89745488/132492801-3b02f87f-e8fd-4532-851c-8baf4e95d51b.jpg)
+
+## ComponentDiagram
+
+![ComponentDiagram](https://user-images.githubusercontent.com/89745488/132492873-498d709e-6b5a-4ba2-b2b2-f927a1209488.png)
+
