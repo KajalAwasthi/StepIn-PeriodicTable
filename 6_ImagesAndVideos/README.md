@@ -10,20 +10,26 @@
 *   When quiz starts with the beginner round
     *   3 or more out of 5 questions are answered correctly
     ![3](https://user-images.githubusercontent.com/89745488/132412098-da707331-6a0d-4820-99d4-2f21b4b245e2.JPG)
+    
     *   Less than 3 out of 5 questions are answered correctly
     ![4](https://user-images.githubusercontent.com/89745488/132412325-8fc18f48-17d2-4cb1-aa95-bf29f4d4870b.JPG)
+    
     *   If question is answered correctly
     ![5](https://user-images.githubusercontent.com/89745488/132412488-e8bc448a-3dd9-4b1b-bc13-f858dc86420a.JPG)
+    
     *   If question is answered incorrectly
     ![6](https://user-images.githubusercontent.com/89745488/132412528-5662115e-70af-4fef-9c3f-e27e55d6c674.JPG)
 
 *   When quiz is in the main round
     *   When answer is correct
     ![7](https://user-images.githubusercontent.com/89745488/132413611-75d49c4e-db76-4331-ab4e-b4afca856b45.JPG)
+    
     *   When answer is incorrect
     ![8](https://user-images.githubusercontent.com/89745488/132413677-ed7406f3-f6d0-45c4-a947-432e4ab5b756.JPG)
+    
     *   If score is between 0 and 1000000
     ![9](https://user-images.githubusercontent.com/89745488/132413795-098d5684-41a4-47b5-a6d8-a50a6e62402e.JPG)
+    
     *   If score is equal to 1000000
     ![10](https://user-images.githubusercontent.com/89745488/132414136-f5e21f6d-03f7-4b72-965b-f6a4400f053d.JPG)
 
