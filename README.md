@@ -1,6 +1,6 @@
 # Project Information
 
 The project titled PeriodicTable is developed using C language. This project is a fun project with a price money, developed using the concepts of C programming like files. It is a quiz related to the periodic table elements. The player is shown a welcome message and is then displayed the rules of the game. If the player wishes to proceed, they should select one of the certain options shown, which are, to start the game, display highest score, reset the score, help or quit the game. If the player starts the quiz, they are asked to provide player name and then the quiz begins. This game has 2 rounds, a beginner round to check eligibility and another round which is the main round. For every correct answer in the main round, the player wins $50000. Both rounds have certain rules which is followed, the player proceeds, else, quiz ends. It has seperate functions like show_score(), show_record, reset_score, help and edit_score to perform different tasks.
-* https://www.code-inspector.com/project/27447/score/svg
-* https://www.code-inspector.com/project/27447/status/svg
+* ![CodeInspector](https://www.code-inspector.com/project/27447/score/svg)
+* ![CodeInspector](https://www.code-inspector.com/project/27447/status/svg)
 * [![Codacy Badge](https://app.codacy.com/project/badge/Grade/ac011a4cc1554f6a84f5eb0a5460a762)](https://www.codacy.com/gh/KajalAwasthi/StepIn-PeriodicTable/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=KajalAwasthi/StepIn-PeriodicTable&amp;utm_campaign=Badge_Grade)
